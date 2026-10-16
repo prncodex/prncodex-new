@@ -5,3 +5,7 @@ protobuf-decoder
 protobuf
 requests
 aiohttp
+Flask
+gunicorn
+flask-cors
+Pillow
